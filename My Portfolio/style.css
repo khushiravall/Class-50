@@ -1,0 +1,58 @@
+h1 {
+    color: mediumslateblue
+}
+
+* {
+    color: mediumslateblue;
+
+}
+
+.header {
+    border:2px solid red;
+    display:flex;
+    justify-content:space-between;
+}
+
+.name{
+    border:2px solid blue;
+}
+
+.myprojectsandaboutme{
+    border: 2px solid yellow;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.writing{
+    border:2px solid brown;
+    text-align: center;
+}
+
+.libraries{
+    border: 2px solid green;
+    text-align: center;
+}
+
+.game{
+    border: 2px solid black;
+    
+}
+
+.gameparent{
+    border: 2px solid purple;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.social{
+    border:2px solid black;
+}
+
+.logos{
+    border: 2px solid purple;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
